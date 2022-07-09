@@ -1,3 +1,6 @@
+from traceback import print_tb
+
+
 def break_words(stuff):
     words = stuff.split(' ')
     return words
@@ -38,5 +41,10 @@ def test_02():
 def test_03():
     print('test_03')
 
+
 def test_04():
     print('test_04')
+
+def test_05():
+    print('test_05')
+
