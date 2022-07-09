@@ -1,6 +1,13 @@
 {
     "editor.lineHeight": 18,
-    "terminal.integrated.shell.windows": "D:\\Git\\bin\\bash.exe",
+    "terminal.integrated.profiles.windows": {
+        "Git-Bash": {
+            "path": "D:\\Git\\bin\\bash.exe",
+            "args": [],
+            "icon": "terminal-bash"
+        },
+    },
+
     "files.associations": {
         "*.job": "sql"
     },
