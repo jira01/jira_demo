@@ -1,0 +1,17 @@
+{
+    "editor.lineHeight": 18,
+    "terminal.integrated.shell.windows": "D:\\Git\\bin\\bash.exe",
+    "files.associations": {
+        "*.job": "sql"
+    },
+    "window.zoomLevel": 0,
+    "editor.rename.enablePreview": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.showTabs": true,
+    "git.suggestSmartCommit": false,
+    "workbench.statusBar.visible": true,
+    "editor.fontSize": 13,
+    "editor.detectIndentation": false,
+    "json.schemaDownload.enable": false,
+
+}
