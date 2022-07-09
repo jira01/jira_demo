@@ -34,3 +34,6 @@ def test():
 
 def test_02():
     print('test_02')
+
+def test_03():
+    print('test_03')
