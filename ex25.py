@@ -30,4 +30,7 @@ def print_first_and_last_sorted(sentence):
 
 def test():
     print('test')
-    
+
+
+def test_02():
+    print('test_02')
