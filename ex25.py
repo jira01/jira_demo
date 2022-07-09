@@ -28,7 +28,6 @@ def print_first_and_last_sorted(sentence):
     print_first_word(words)
     print_last_word(words)
 
-def demo():
-    print('i am fine')
-
-print_first_and_last('i am fine')
+def test():
+    print('test')
+    
