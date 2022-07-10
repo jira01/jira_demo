@@ -48,5 +48,10 @@ def test_04():
 def test_05():
     print('test_05')
 
+
 def test_07():
     print('test_07')
+
+def test_06():
+    print('test_06')
+
