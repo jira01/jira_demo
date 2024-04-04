@@ -28,7 +28,7 @@
     "window.zoomLevel": 0,
     "editor.rename.enablePreview": false,
     "workbench.editor.enablePreview": false,
-    "workbench.editor.showTabs": true,
+    "workbench.editor.showTabs": "multiple",
     "git.suggestSmartCommit": false,
     "workbench.statusBar.visible": true,
     "editor.fontSize": 13,
